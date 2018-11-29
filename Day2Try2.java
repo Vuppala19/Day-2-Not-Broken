@@ -3,5 +3,6 @@ public class Day2Try2{
 
 		//test
 		System.out.println("Siddhi");
+		System.out.println("Sreeya");
 	}
 }
