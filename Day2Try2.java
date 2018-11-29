@@ -5,5 +5,7 @@ public class Day2Try2{
 		System.out.println("Siddhi");
 		System.out.println("Sreeya");
 		System.out.println("Testing merge problem");
+		System.out.println("Add new Feature");
+
 	}
 }
